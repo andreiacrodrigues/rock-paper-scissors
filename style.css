@@ -1,0 +1,33 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: rgb(167, 167, 167);
+}
+
+.square{
+    border:2px solid rgb(247, 239, 239); 
+    width:96vw;
+    height:400px;
+    background-color: rgb(248, 247, 245);
+    border-radius:5px;
+    margin: 5px;
+}
+
+.round{ 
+    background-color: goldenrod;
+    height: 200px;
+    margin: 5px;
+    padding: 25px;
+    border-radius:5px;
+}
+
+.final{
+    background-color: rgb(72, 71, 68);
+    height: 100px;
+    margin: 5px;
+    padding: 20px;
+    color: white;
+    font-weight: bolder;
+    font-size: 30px;
+    border-radius:5px;
+}
